@@ -1,4 +1,4 @@
-### **👋About Me**
+## **👋About Me**
 
 
 
@@ -12,7 +12,7 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 
 
-### **💡 What I Do**
+## **💡 What I Do**
 
 * Clean, analyze, and transform data using Power Query, SQL \& Advanced Excel  
 * Build interactive dashboards using Power BI  
@@ -21,7 +21,7 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 ### 
 
-### **🧠 Skills \& Tools**
+## **🧠 Skills \& Tools**
 
 * **Analytics \& BI**: Advanced Excel, SQL, Power Query, Power BI
 * **Data Concepts:** Data Processing (ETL), Data Cleaning, Data Profiling, Data Modeling, Data Manipulation   
@@ -32,7 +32,7 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 ### 
 
-### **📂 Featured Projects (Business-Focused Case Studies)**
+## **📂 Featured Projects (Business-Focused Case Studies)**
 
 #### **1. 📊 Food Delivery Startup Crisis Impact Analysis**
 
@@ -64,7 +64,7 @@ Studied content performance and business positioning before merger strategy.
 
 
 
-### **📂 Project Portfolio**
+## **📂 Project Portfolio**
 
 
 
@@ -76,7 +76,7 @@ Each project demonstrates an end-to-end analytics workflow, covering business pr
 
 
 
-### **📫 Let's Connect**
+## **📫 Let's Connect**
 
 I am open to professional opportunities where I can contribute, learn, and grow while delivering meaningful results.
 
