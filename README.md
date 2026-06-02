@@ -2,7 +2,7 @@
 
 
 
-&#x20;Hi! I'm Abhilasha**,** 
+&#x20;Hi! I'm Abhilasha,
 
 A Data Analyst and Digital Marketing enthusiast focused on helping organizations understand what data is saying through data-driven insights that support better decision-making.
 
@@ -34,33 +34,33 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 ### **📂 Featured Projects (Business-Focused Case Studies)**
 
-1. #### **📊 Food Delivery Startup Crisis Impact Analysis**
+#### **1. 📊 Food Delivery Startup Crisis Impact Analysis**
 
-\-Analyzed operational and demand changes using structured datasets and KPI tracking.
+Analyzed operational and demand changes using structured datasets and KPI tracking.
 
 
 
 #### **2. 🛡️ Insurance Business Performance Analytics**  
 
-\-Evaluated claim trends, customer behavior, and business risk indicators.
+Evaluated claim trends, customer behavior, and business risk indicators.
 
 
 
 #### **3. 📈 Marketing Campaign Performance Analysis**
 
-\-Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
+Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
 
 
 #### **4. 💳 Credit Card Business Analytics**  
 
-\-Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
+Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
 
 
 
 #### **5. 🎬 OTT Media Pre-Merger Analysis**
 
-\-Studied content performance and business positioning before merger strategy.
+Studied content performance and business positioning before merger strategy.
 
 
 
