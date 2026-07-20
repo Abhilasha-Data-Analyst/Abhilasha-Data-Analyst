@@ -14,21 +14,20 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 ## **💡 What I Do**
 
-* Clean, analyze, and transform data using Power Query, SQL \& Advanced Excel  
-* Build interactive dashboards using Power BI  
-* Create KPI reports and business performance insights  
-* Translate data into simple, actionable business stories  
+✔ **Data Preparation & Modeling**: Build optimized SQL queries for complex reporting, data profiling, and data modeling. 
+✔ **Exploratory Data Analysis (EDA)**: Transform raw data into structured insights by analyzing customer demographics, geographical trends, and business metrics to identify growth opportunities across diverse business operations.
+✔ **BI & Dashboard Development**: Transform messy datasets into interactive, visually compelling Power BI and Excel dashboards. 
+✔ **Stakeholder Reporting**: Translate complex technical metrics into executive-ready business reports and presentations for cross-functional teams. 
 
 ### 
 
 ## **🧠 Skills \& Tools**
 
-* **Analytics \& BI**: Advanced Excel, SQL, Power Query, Power BI
-* **Data Concepts:** Data Processing (ETL), Data Cleaning, Data Profiling, Data Modeling, Data Manipulation   
-* **Visualization:** Dashboard Design, Data Storytelling  
-* **Business Analytics:** KPI Tracking, Dashboard Development, Insight Generation \& Reporting,
-* **Digital Marketing:** Social Media Marketing, Content Strategy
-* **Presentation Tools:** PowerPoint, Canva, Microsoft Word
+* **Analytics \& BI**: SQL, Power BI, DAX, Advanced Excel, Power Query 
+* **Data Concepts:** Data Processing (ETL), Data Cleaning, Data Profiling, Data Modeling, Data Manipulation and EDA  
+* **Visualization:** Dashboard Development, Data Storytelling  
+* **Business Analytics:** KPI Tracking, Trend Analysis, Insight Generation & Reporting 
+* **Digital Marketing:** Google Analytics (GA4), Social Media Marketing, Content Strategy
 
 ### 
 
@@ -78,8 +77,7 @@ Each project demonstrates an end-to-end analytics workflow, covering business pr
 
 ## **📫 Let's Connect**
 
-I am open to professional opportunities where I can contribute, learn, and grow while delivering meaningful results.
-
+Whether you need a Power BI dashboard, SQL analysis, Excel reporting, or help making sense of your data, I'm ready to deliver accurate, high-quality work that helps you make better business decisions. Let's discuss your project and create a solution tailored to your business needs.
 
 
 Abhilasha-Data Analyst 
