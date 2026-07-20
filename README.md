@@ -15,8 +15,11 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 ## **💡 What I Do**
 
 ✔ **Data Preparation & Modeling**: Build optimized SQL queries for complex reporting, data profiling, and data modeling. 
+
 ✔ **Exploratory Data Analysis (EDA)**: Transform raw data into structured insights by analyzing customer demographics, geographical trends, and business metrics to identify growth opportunities across diverse business operations.
+
 ✔ **BI & Dashboard Development**: Transform messy datasets into interactive, visually compelling Power BI and Excel dashboards. 
+
 ✔ **Stakeholder Reporting**: Translate complex technical metrics into executive-ready business reports and presentations for cross-functional teams. 
 
 ### 
@@ -73,6 +76,9 @@ Explore my repositories for complete business Case Studies, Live Power BI Dashbo
 
 Each project demonstrates an end-to-end analytics workflow, covering business problem identification, data analysis, dashboard development, insight generation, and decision-making support.
 
+
+Through my analytics projects, I have worked with raw datasets to solve key business questions and deliver data-driven insights across domains such as Marketing, Sales, Customer Analytics, and Product Analytics.
+  
 
 
 ## **📫 Let's Connect**
