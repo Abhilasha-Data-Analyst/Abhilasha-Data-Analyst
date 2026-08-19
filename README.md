@@ -1,37 +1,32 @@
 ## **👋About Me**
 
+📊 Turning raw data into insights, dashboards, and better decisions.
 
+I enjoy working with data—from cleaning and transforming messy datasets to exploring patterns, building interactive dashboards, and communicating insights that support better business decisions.
 
-&#x20;Hi! I'm Abhilasha,
+**🛠️ Tech & Analytics Toolkit**
+SQL | Power BI | Excel | Power Query | DAX | Python (Basics) | Google Analytics (GA4)
 
-A Data Analyst and Digital Marketing enthusiast focused on helping organizations understand what data is saying through data-driven insights that support better decision-making.
+My goal is to bridge the gap between **data and decision-making** by transforming business data into clear, actionable insights.
 
+## **📌 What I Work On**
+* Data cleaning, transformation, and preparation
+* SQL-based data analysis and business reporting
+* Exploratory Data Analysis (EDA)
+* Interactive Power BI and Excel dashboards
+* KPI and performance analysis
+* Turning complex datasets into clear, actionable insights
 
+  ## **🎯 My Approach**
+**Data → Analysis → Insight → Action**
 
-My goal is to bridge the gap between data and decision-making by transforming business data into clear, actionable insights.
-
-
-
-## **💡 What I Do**
-
-✔ **Data Preparation & Modeling**: Build optimized SQL queries for complex reporting, data profiling, and data modeling. 
-
-✔ **Exploratory Data Analysis (EDA)**: Transform raw data into structured insights by analyzing customer demographics, geographical trends, and business metrics to identify growth opportunities across diverse business operations.
-
-✔ **BI & Dashboard Development**: Transform messy datasets into interactive, visually compelling Power BI and Excel dashboards. 
-
-✔ **Stakeholder Reporting**: Translate complex technical metrics into executive-ready business reports and presentations for cross-functional teams. 
-
-### 
-
-## **🧠 Skills \& Tools**
-
-* **Analytics \& BI**: SQL, Power BI, DAX, Advanced Excel, Power Query 
-* **Data Concepts:** Data Processing (ETL), Data Cleaning, Data Profiling, Data Modeling, Data Manipulation and EDA  
-* **Visualization:** Dashboard Development, Data Storytelling  
-* **Business Analytics:** KPI Tracking, Trend Analysis, Insight Generation & Reporting 
-* **Digital Marketing:** Google Analytics (GA4), Social Media Marketing, Content Strategy
-
+**I like asking:**
+* What does the data tell us?
+* What happened?
+* Why did it happen?
+* Where is the opportunity?
+* What should we do next?
+ 
 ### 
 
 ## **📂 Featured Projects (Business-Focused Case Studies)**
@@ -40,54 +35,37 @@ My goal is to bridge the gap between data and decision-making by transforming bu
 
 Analyzed operational and demand changes using structured datasets and KPI tracking.
 
-
-
 #### **2. 🛡️ Insurance Business Performance Analytics**  
 
 Evaluated claim trends, customer behavior, and business risk indicators.
-
-
 
 #### **3. 📈 Marketing Campaign Performance Analysis**
 
 Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
-
-
 #### **4. 💳 Credit Card Business Analytics**  
 
 Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
-
-
 
 #### **5. 🎬 OTT Media Pre-Merger Analysis**
 
 Studied content performance and business positioning before merger strategy.
 
-
-
 ## **📂 Project Portfolio**
+Explore my repositories for complete business **case studies, Power BI dashboards, SQL analysis, project presentations, walkthrough videos, key insights, and business recommendations.**
 
+Each project demonstrates an end-to-end analytics workflow, covering:
 
+**Business Problem → Data Preparation → Analysis → Visualization → Data Storytelling → Insights → Recommendations**
 
-Explore my repositories for complete business Case Studies, Live Power BI Dashboards, SQL Analysis, Project Presentations, Project Walkthrough Videos, Key Insights, and Business Recommendations.
-
-
-
-Each project demonstrates an end-to-end analytics workflow, covering business problem identification, data analysis, dashboard development, insight generation, and decision-making support.
-
-
-Through my analytics projects, I have worked with raw datasets to solve key business questions and deliver data-driven insights across domains such as Marketing, Sales, Customer Analytics, and Product Analytics.
-  
-
+I aim to make each project **clear, reproducible, and focused on the story behind the data—not just the final numbers.**
 
 ## **📫 Let's Connect**
+🌱 Always open to learning, collaborating, and building meaningful data projects.
 
-Whether you need a Power BI dashboard, SQL analysis, Excel reporting, or help making sense of your data, I'm ready to deliver accurate, high-quality work that helps you make better business decisions. Let's discuss your project and create a solution tailored to your business needs.
-
+🤝 Let's connect and turn data into something useful.
 
 Abhilasha-Data Analyst 
-
 Email: connectspace.abhilasha@gmail.com
 
 
