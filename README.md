@@ -5,6 +5,7 @@
 I enjoy working with data—from cleaning and transforming messy datasets to exploring patterns, building interactive dashboards, and communicating insights that support better business decisions.
 
 **🛠️ Tech & Analytics Toolkit**
+
 SQL | Power BI | Excel | Power Query | DAX | Python (Basics) | Google Analytics (GA4)
 
 My goal is to bridge the gap between **data and decision-making** by transforming business data into clear, actionable insights.
