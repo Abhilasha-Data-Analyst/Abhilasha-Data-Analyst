@@ -17,7 +17,7 @@ My goal is to bridge the gap between **data and decision-making** by transformin
 * KPI and performance analysis
 * Turning complex datasets into clear, actionable insights
 
-  ## **🎯 My Approach**
+## **🎯 My Approach**
 **Data → Analysis → Insight → Action**
 
 **I like asking:**
