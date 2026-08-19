@@ -12,12 +12,12 @@ SQL | Power BI | Excel | Power Query | DAX | Python (Basics) | Google Analytics 
 My goal is to bridge the gap between **data and decision-making** by transforming business data into clear, actionable insights.
 
 ## **📌 What I Work On**
-* Data cleaning, transformation, and preparation
-* SQL-based data analysis and business reporting
+* Turning complex datasets into clear, actionable insights
 * Exploratory Data Analysis (EDA)
 * Interactive Power BI and Excel dashboards
 * KPI and performance analysis
-* Turning complex datasets into clear, actionable insights
+* Data cleaning, transformation, and preparation
+* SQL-based data analysis and business reporting
 
 ## **🎯 My Approach**
 **Data → Analysis → Insight → Action**
