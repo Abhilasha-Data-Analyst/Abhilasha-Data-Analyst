@@ -45,7 +45,7 @@ Evaluated claim trends, customer behavior, and business risk indicators.
 
 Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
-#### **4. 💳 Credit Card Business Analytics**  
+#### **4. 💳 Credit Card Pre-launch Business Analytics**  
 
 Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
 
@@ -54,13 +54,13 @@ Analyzed customer spending behavior and revenue patterns for pre-launch credit c
 Studied content performance and business positioning before merger strategy.
 
 ## **📂 Project Portfolio**
-Explore my repositories for complete business **case studies, Power BI dashboards, SQL analysis, project presentations, walkthrough videos, key insights, and business recommendations.**
+* Explore my repositories for complete business **case studies, Power BI dashboards, SQL analysis, project presentations, walkthrough videos, key insights, and business recommendations.**
 
-Each project demonstrates an end-to-end analytics workflow, covering:
+* Each project demonstrates an end-to-end analytics workflow, covering:
 
 **Business Problem → Data Preparation → Analysis → Visualization → Data Storytelling → Insights → Recommendations**
 
-I aim to make each project **clear, reproducible, and focused on the story behind the data—not just the final numbers.**
+* I aim to make each project **clear, reproducible, and focused on the story behind the data—not just the final numbers.**
 
 ## **📫 Let's Connect**
 🌱 Always open to learning, collaborating, and building meaningful data projects.
