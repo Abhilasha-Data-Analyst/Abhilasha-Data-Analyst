@@ -61,7 +61,7 @@ Studied content performance and business positioning before merger strategy.
 * I aim to make each project **clear, reproducible, and focused on the story behind the data—not just the final numbers.**
 
 ## **📫 Let's Connect**
-🌱 Always open to learning, collaborating, and building meaningful data projects.
+🌱 Always open to learning, collaborating, and building meaningful data-driven solutions.
 
 🤝 Let's connect and let your data work for you.
 
