@@ -63,7 +63,7 @@ Studied content performance and business positioning before merger strategy.
 ## **📫 Let's Connect**
 🌱 Always open to learning, collaborating, and building meaningful data projects.
 
-🤝 Let's connect and turn data into something useful.
+🤝 Let's connect and let your data work for you.
 
 Email: connectspace.abhilasha@gmail.com
 
