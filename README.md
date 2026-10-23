@@ -58,7 +58,7 @@ Studied content performance and business positioning before merger strategy.
 
 * Each project demonstrates an end-to-end analytics workflow, covering:
 
-**Business Problem → Data Preparation → Analysis → Visualization → Data Storytelling → Insights → Recommendations**
+### **Business Problem → Data Preparation → Analysis → Visualization → Data Storytelling → Insights → Recommendations**
 
 * I aim to make each project **clear, reproducible, and focused on the story behind the data—not just the final numbers.**
 
