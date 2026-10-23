@@ -65,8 +65,6 @@ Studied content performance and business positioning before merger strategy.
 
 🤝 Let's connect and turn data into something useful.
 
-Abhilasha-Data Analyst 
-
 Email: connectspace.abhilasha@gmail.com
 
 
