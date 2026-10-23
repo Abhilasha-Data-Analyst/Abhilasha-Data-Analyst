@@ -33,23 +33,23 @@ My goal is to bridge the gap between **data and decision-making** by transformin
 
 ## **📂 Featured Projects (Business-Focused Case Studies)**
 
-#### **1. 📊 Food Delivery Startup Crisis Impact Analysis** [**Project Link**](https://github.com/Abhilasha-Data-Analyst/Food-Delivery-Startup-Crisis-Impact-Analysis-PowerBI/blob/main/README.md)
+#### **1. 📊 Food Delivery Startup Crisis Impact Analysis**-[**Project Link**](https://github.com/Abhilasha-Data-Analyst/Food-Delivery-Startup-Crisis-Impact-Analysis-PowerBI/blob/main/README.md)
 
 Analyzed operational and demand changes using structured datasets and KPI tracking.
 
-#### **2. 🛡️ Insurance Business Performance Analytics**  
+#### **2. 🛡️ Insurance Business Performance Analytics**-[**Project Link**](https://github.com/Abhilasha-Data-Analyst/PowerBI-Insurance-Business-Performance-Data-Analytics-Project)
 
 Evaluated claim trends, customer behavior, and business risk indicators.
 
-#### **3. 📈 Marketing Campaign Performance Analysis**
+#### **3. 📈 Marketing Campaign Performance Analysis**-[**Project Link**](https://github.com/Abhilasha-Data-Analyst/Marketing-Campaign-Performance-Analytics-using-PowerBI)
 
 Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
-#### **4. 💳 Credit Card Pre-launch Business Analytics**  
+#### **4. 💳 Credit Card Pre-launch Business Analytics**-[**Project Link**](https://github.com/Abhilasha-Data-Analyst/Bank-Credit-Card-Data-Driven-Insights-PowerBI)
 
 Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
 
-#### **5. 🎬 OTT Media Pre-Merger Analysis**
+#### **5. 🎬 OTT Media Pre-Merger Analysis**-[**Project Link**](https://github.com/Abhilasha-Data-Analyst/OTT-Media-Pre-Merger-Strategy-Analytics-SQL/blob/main/README.md)
 
 Studied content performance and business positioning before merger strategy.
 
