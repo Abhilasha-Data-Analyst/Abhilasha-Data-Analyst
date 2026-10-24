@@ -46,7 +46,7 @@ Conducted end-to-end customer and sales analysis across demographics, purchasing
 #### **4. 💳 Credit Card Pre-launch Business Analytics**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Bank-Credit-Card-Data-Driven-Insights-PowerBI.git)
 Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
 
-#### **5. 🎬 OTT Media Pre-Merger Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/OTT-Media-Pre-Merger-Strategy-Analytics-SQL/blob/main/README.md)
+#### **5. 🎬 OTT Media Pre-Merger Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/OTT-Media-Pre-Merger-Strategy-Analytics-SQL.git)
 
 Studied content performance and business positioning before merger strategy.
 
