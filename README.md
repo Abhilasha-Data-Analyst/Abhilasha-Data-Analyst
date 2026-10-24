@@ -40,8 +40,7 @@ Analyzed operational and demand changes using structured datasets and KPI tracki
 
 Evaluated claim trends, customer behavior, and business risk indicators.
 
-#### **3. 📈 Marketing Campaign Performance Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Marketing-Campaign-Performance-Analytics-using-PowerBI)
-
+#### **3. 📈 Marketing Campaign Performance Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Marketing-Campaign-Performance-Analytics-using-PowerBI.git)
 Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
 #### **4. 💳 Credit Card Pre-launch Business Analytics**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Bank-Credit-Card-Data-Driven-Insights-PowerBI)
