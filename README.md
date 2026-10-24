@@ -33,7 +33,7 @@ My goal is to bridge the gap between **data and decision-making** by transformin
 
 ## **📂 Featured Projects (Business-Focused Case Studies)**
 
-#### **1. 📊 Food Delivery Startup Crisis Impact Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Food-Delivery-Startup-Crisis-Impact-Analysis-PowerBI/blob/main/README.md)
+#### **1. 📊 Food Delivery Startup Crisis Impact Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Food-Delivery-Startup-Crisis-Impact-Analysis-PowerBI.git)
 Analyzed operational and demand changes using structured datasets and KPI tracking.
 
 #### **2. 🛡️ Insurance Business Performance Analytics**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/PowerBI-Insurance-Business-Performance-Data-Analytics-Project)
