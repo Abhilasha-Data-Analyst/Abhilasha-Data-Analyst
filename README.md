@@ -43,8 +43,7 @@ Evaluated claim trends, customer behavior, and business risk indicators.
 #### **3. 📈 Marketing Campaign Performance Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Marketing-Campaign-Performance-Analytics-using-PowerBI.git)
 Conducted end-to-end customer and sales analysis across demographics, purchasing channels, product categories, and campaign performance to uncover key business growth opportunities.
 
-#### **4. 💳 Credit Card Pre-launch Business Analytics**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Bank-Credit-Card-Data-Driven-Insights-PowerBI)
-
+#### **4. 💳 Credit Card Pre-launch Business Analytics**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/Bank-Credit-Card-Data-Driven-Insights-PowerBI.git)
 Analyzed customer spending behavior and revenue patterns for pre-launch credit card strategy.
 
 #### **5. 🎬 OTT Media Pre-Merger Analysis**-[**View Project**](https://github.com/Abhilasha-Data-Analyst/OTT-Media-Pre-Merger-Strategy-Analytics-SQL/blob/main/README.md)
